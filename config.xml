@@ -46,7 +46,7 @@
     <preference name="AutoHideSplashScreen" value="false" />
     <preference name="ShowSplashScreenSpinner" value="false" />
 <preference name="phonegap-version" value="cli-6.0.0" />
-    <plugin name="org.apache.cordova.core.camera" />
+    <plugin name="org.apache.cordova.camera" />
     <splash src="www/img/splash/android/drawable/screen.png" />
     <splash platform="android" qualifier="port-ldpi" src="www/img/splash/android/drawable-ldpi/screen.png" />
     <splash platform="android" qualifier="port-mdpi" src="www/img/splash/android/drawable-mdpi/screen.png" />
